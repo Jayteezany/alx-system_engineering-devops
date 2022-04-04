@@ -1,1 +1,2 @@
-#!bim/bashcut -c 1  | paste -s -d ''
+#!bim/bash
+cut -c 1 | paste -s -d ''
